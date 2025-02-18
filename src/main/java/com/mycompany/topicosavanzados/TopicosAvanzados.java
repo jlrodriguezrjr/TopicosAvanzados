@@ -4,10 +4,6 @@
 
 package com.mycompany.topicosavanzados;
 
-/**
- *
- * @author josel
- */
 public class TopicosAvanzados {
 
     public static void main(String[] args) {
